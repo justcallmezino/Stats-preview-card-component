@@ -24,10 +24,11 @@ Users should be able to:
 ### Screenshot
 ![Desktop version](/screenshots/desktop.jpg)
 ![Mobile version](/screenshots/mobile.jpg)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-YyfRVUmD3t)
+- Live Site URL: [GitHub Pages Live URL](https://justcallmezino.github.io/Stats-preview-card-component/)
 
 ## My process
 
