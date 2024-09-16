@@ -1,51 +1,51 @@
-# Stats-preview-card-component
-An implementation of Frontend Mentor code challenge
-This is a solution to the Stats preview card component challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-Table of contents
+# Frontend Mentor - Stats preview card component solution
 
-    Overview
-        The challenge
-        Screenshots
-        Links
-    My process
-        Built with
-        Continued development
-    Author
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Overview
-The challenge
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+- [Author](#author)
+
+## Overview
+
+### The challenge
 
 Users should be able to:
 
-    View the optimal layout depending on their device's screen size
+- View the optimal layout depending on their device's screen size
 
-Screenshot
-
+### Screenshot
 Desktop version
-
-desktop version
 
 Mobile version
 
-mobile version
-Links
+### Links
 
-    Solution URL: Code on GitHub
-    Live Site URL: GitHub Pages Live URL
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-My process
-Built with
+## My process
 
-    Semantic HTML5 markup
-    CSS custom properties
-    Flexbox
-    Desktop-first workflow
+### Built with
 
-Continued development
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
 
-Will do more of these challenges to improve my skills.
-Author
+### Continued development
 
-    Website - Shiva Santosh Jana
-    Frontend Mentor - @santu369
-    Twitter - @santu69
+Challenge myself every now and again to improve my skills.
+
+## Author
+
+- Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [@justcallmezino](https://www.frontendmentor.io/profile/@justcallmezino)
+- Twitter - [@justcallmezino](https://www.twitter.com/@justcallmezino)
