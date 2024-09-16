@@ -22,10 +22,8 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-Desktop version
-
-Mobile version
-
+![Desktop version](/screenshots/desktop.jpg)
+![Mobile version](/screenshots/mobile.jpg)
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
